@@ -2,28 +2,30 @@
 layout: default
 title: AppAtb
 header_type: hero
-subtitle: toBrainHealth Project
+subtitle: Optimizando la prescripción antimicrobiana con datos en tiempo real<
 ---
 <div style="float: left; margin-right: 10px;">
   <img src="assets/logos/toBrainHealthLogo.png" alt="Texto alternativo" width="187">
 </div>
 
-Welcome to toBrainHealth: Towards a personalized intervention model for increasing adherence and promoting Brain Health
-
-
 ## About toBrainHealth
 
-This project faces the scientific and technological challenge of understanding and maintaining brain health in an increasingly aging population. This challenge must be approached from the confluence of complementary areas, such as biomedical engineering and neuroscience. The ambition of the project and the mandatory multidisciplinary approach require a coordinated project involving researchers in biomedical engineering working on data analysis and explainable artificial intelligence (XAI), enhanced user experience, and technology-based multi-domain interventions, in very close collaboration with clinical teams comprised of researchers working on neuroscience, cognition, brain health and brain resilience. kka
+El uso de antibióticos es una práctica común en hospitales, pero la creciente resistencia antimicrobiana dificulta la selección de tratamientos eficaces. Para optimizar su uso, es fundamental contar con información actualizada sobre los patrones de sensibilidad de los microorganismos en cada centro hospitalario. Los Programas de Optimización del Uso de Antibióticos (PROA) han desarrollado estrategias para adaptar la terapia empírica a la realidad microbiológica de cada hospital, pero enfrentan dificultades en la obtención y actualización de datos clínico-microbiológicos.
+
+Las infecciones asociadas a bacteriemia presentan una alta mortalidad y requieren un tratamiento empírico rápido y preciso. Sin embargo, los mapas microbiológicos tradicionales son difíciles de actualizar y poco accesibles para los médicos, lo que limita su uso. AppATB surge como una herramienta digital innovadora que permite acceder en tiempo real a información microbiológica y de sensibilidad antibiótica, facilitando la toma de decisiones clínicas.
+
+La aplicación se basa en datos obtenidos automáticamente de cultivos sanguíneos hospitalarios, un procedimiento estándar en la mayoría de los centros. Su implementación permitirá mejorar la calidad de la prescripción antibiótica, reducir el uso de antibióticos de amplio espectro y minimizar la aparición de microorganismos multirresistentes. Además, la integración de tecnologías móviles y herramientas digitales en la gestión de infecciones hospitalarias facilitará la consulta de información actualizada y personalizada según el ecosistema microbiológico de cada hospital.
+
+Este proyecto representa un avance significativo en la optimización del uso de antibióticos y en la lucha contra la resistencia antimicrobiana, proporcionando una herramienta eficaz y accesible para los equipos PROA y los médicos prescriptores.
 
 
 ## Our Objective
 
-toBrainHealth addresses the challenge of understanding and preserving brain health throughout the life course in an increasingly aging population. This scientific and technological problem is addressed by proposing a coordinated and multidisciplinary research project whose main objectives are:
-+ To generate new data-driven hypotheses and XAI models that define brain health determinants from the extensive data collected by the BBHI so far.
-+ To create new methods and tools for measuring, improving and predicting adherence to technology-based lifestyles interventions for the promotion of brain health.
+Desarrollar AppATB, una herramienta e-health innovadora que optimice la prescripción antimicrobiana en casos de bacteriemia, proporcionando recomendaciones personalizadas y actualizadas en tiempo real, adaptadas a la realidad clínica de cada paciente y centro hospitalario.
 
 This project aims to achieve the following specific objectives:
-+ Define and develop ML models to (1) generate new data-driven clinical hypotheses in the field of brain health, and (2) identify factors involved in adherence, predict adherence to lifestyles interventions, and get personalized recommended prevention measures for brain health promotion.
++ Mapa de resistencias antibióticas.
+Proporcionar una visión geográfica actualizada sobre la resistencia de los microorganismos a los antibióticos en distintos hospitales..
 + Define, develop and validate a DP model that uses multimodal data coming from smartphones to build digital physiological and behavioural biomarkers.
 + Provide trustworthy and explainable capabilities to ML models, putting a special emphasis on the ethical implications of this research for clinical practice, ensuring that the outcomes are interpretable by healthcare professionals.
 + Define and develop personalized gamification strategies for an enhanced user experience.
