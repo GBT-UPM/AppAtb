@@ -13,7 +13,7 @@ Welcome to toBrainHealth: Towards a personalized intervention model for increasi
 
 ## About toBrainHealth
 
-This project faces the scientific and technological challenge of understanding and maintaining brain health in an increasingly aging population. This challenge must be approached from the confluence of complementary areas, such as biomedical engineering and neuroscience. The ambition of the project and the mandatory multidisciplinary approach require a coordinated project involving researchers in biomedical engineering working on data analysis and explainable artificial intelligence (XAI), enhanced user experience, and technology-based multi-domain interventions, in very close collaboration with clinical teams comprised of researchers working on neuroscience, cognition, brain health and brain resilience.
+This project faces the scientific and technological challenge of understanding and maintaining brain health in an increasingly aging population. This challenge must be approached from the confluence of complementary areas, such as biomedical engineering and neuroscience. The ambition of the project and the mandatory multidisciplinary approach require a coordinated project involving researchers in biomedical engineering working on data analysis and explainable artificial intelligence (XAI), enhanced user experience, and technology-based multi-domain interventions, in very close collaboration with clinical teams comprised of researchers working on neuroscience, cognition, brain health and brain resilience. kka
 
 
 ## Our Objective
