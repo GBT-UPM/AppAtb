@@ -39,14 +39,14 @@ Evaluar la usabilidad, efectividad y aceptación de AppATB entre los médicos pr
 
 ## Quienes somos
 
-AppATB es el resultado de un esfuerzo colaborativo entre expertos en bioingeniería, tecnología sanitaria y profesionales clínicos especializados en enfermedades infecciosas. Su desarrollo e implementación ha sido realizada por el Grupo de Bioingeniería y Telemedicina de la Universidad Politécnica de Madrid (GBT-UPM).
+AppATB es el resultado de un esfuerzo colaborativo entre expertos en bioingeniería, tecnología sanitaria y profesionales clínicos especializados en enfermedades infecciosas. 
+El proyecto cuenta con la participación de profesionales sanitarios de prestigiosos hospitales de España, quienes han aportado su experiencia y conocimientos para garantizar la eficacia y aplicabilidad de AppATB en la práctica médica. Su desarrollo e implementación ha sido realizada por el <b>Grupo de Bioingeniería y Telemedicina</b> de la Universidad Politécnica de Madrid (GBT-UPM).
 
-En el ámbito clínico, el proyecto cuenta con la participación de profesionales sanitarios de prestigiosos hospitales de España, quienes han aportado su experiencia y conocimientos para garantizar la eficacia y aplicabilidad de AppATB en la práctica médica. Entre los centros colaboradores se encuentran:
-
-Parc Sanitari Sant Joan de Déu
-Hospital Universitari de la Santa Creu i Sant Pau
-Hospital Universitario Sant Joan
-Hospital Universitari Arnau de Vilanova
+Entre los centros colaboradores se encuentran:
++ <b>Parc Sanitari Sant Joan de Déu</b>
++ <b>Hospital Universitari de la Santa Creu i Sant Pau</b>
++ <b>Hospital Universitario Sant Joan</b>
++ <b>Hospital Universitari Arnau de Vilanova</b>
 Esta sinergia entre la tecnología y la medicina nos permite desarrollar una solución avanzada, adaptada a la realidad de cada centro hospitalario, con el objetivo de mejorar la prescripción antimicrobiana y optimizar el tratamiento de las bacteriemias.
 
 
