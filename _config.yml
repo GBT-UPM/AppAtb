@@ -98,12 +98,12 @@ navbar:
     url     :  https://gbt-upm.github.io/AppAtb # default["url/baseurl"]
     img     :  assets/images/favicon.png # An small image, try 30x30px
   nav:
-  - title   : The project
+  - title   : El proyecto
     url     : /project
-  - title   : News # Label
-    url     : /blog/ # url	
-  - title   : Publications
+  - title   : Publicaciones
     url     : /publication
+  - title   : Demo
+    url     : /demo
   # - title   : About us
   #   url     : /aboutus
   
