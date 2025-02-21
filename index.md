@@ -2,7 +2,7 @@
 layout: default
 title: AppAtb
 header_type: hero
-subtitle: Optimizando la prescripción antimicrobiana con datos en tiempo real<
+subtitle: Optimizando la prescripción antimicrobiana con datos en tiempo real
 ---
 <div style="float: left; margin-right: 10px;">
   <img src="assets/logos/toBrainHealthLogo.png" alt="Texto alternativo" width="187">
@@ -24,17 +24,30 @@ Este proyecto representa un avance significativo en la optimización del uso de 
 Desarrollar AppATB, una herramienta e-health innovadora que optimice la prescripción antimicrobiana en casos de bacteriemia, proporcionando recomendaciones personalizadas y actualizadas en tiempo real, adaptadas a la realidad clínica de cada paciente y centro hospitalario.
 
 This project aims to achieve the following specific objectives:
-+ Mapa de resistencias antibióticas.
++ <b>Mapa de resistencias antibióticas.</b>
 Proporcionar una visión geográfica actualizada sobre la resistencia de los microorganismos a los antibióticos en distintos hospitales..
-+ Define, develop and validate a DP model that uses multimodal data coming from smartphones to build digital physiological and behavioural biomarkers.
-+ Provide trustworthy and explainable capabilities to ML models, putting a special emphasis on the ethical implications of this research for clinical practice, ensuring that the outcomes are interpretable by healthcare professionals.
-+ Define and develop personalized gamification strategies for an enhanced user experience.
-+ Define and implement a technology-based lifestyles intervention to assess adherence and validate the adherence prediction model and the influence of the clinical (recommended measures) and technological (tailored gamification strategies) personalisation methods and tools proposed.
-+ Develop an accessible data repository for the scientific community to allow third-party institutions to collaborate and advance the knowledge of brain health.
++  Optimización del tratamiento inicial.
+Facilitar una prescripción más precisa y eficaz de antibióticos en infecciones graves, mejorando el tratamiento empírico desde el primer momento.
++ Mejor evolución de los pacientes.
+Reducir complicaciones y mejorar la recuperación de los pacientes con bacteriemias mediante una terapia antibiótica más ajustada.
++ Reducción de microorganismos multirresistentes
+Disminuir la aparición de bacterias resistentes a los antibióticos optimizando la selección del tratamiento antimicrobiano.
++ Uso racional de antibióticos
+Minimizar el consumo innecesario de antibióticos y contribuir a una prescripción más responsable y basada en datos reales.
++ Experiencia y satisfacción de los profesionales
+Evaluar la usabilidad, efectividad y aceptación de AppATB entre los médicos prescriptores y los equipos PROA en los hospitales participantes.
 
 ## Who We Are
 
-The project team is made up of researchers from the Biomedical Engineering and Telemedicine Centre of the Universidad Politécnica de Madrid (GBT-UPM) and Institute Guttmann (GUTT), a neuro- rehabilitation hospital and brain health institute. The collaboration between the participating groups began more than 15 years ago and has led to 10 national and international projects, 6 doctoral theses, more than 60 publications and the development of a tele-rehabilitation platform GNPT1 (Medical Device since 2014-IML9/10).
+AppATB es el resultado de un esfuerzo colaborativo entre expertos en bioingeniería, tecnología sanitaria y profesionales clínicos especializados en enfermedades infecciosas. Su desarrollo e implementación ha sido realizada por el Grupo de Bioingeniería y Telemedicina de la Universidad Politécnica de Madrid (GBT-UPM).
+
+En el ámbito clínico, el proyecto cuenta con la participación de profesionales sanitarios de prestigiosos hospitales de España, quienes han aportado su experiencia y conocimientos para garantizar la eficacia y aplicabilidad de AppATB en la práctica médica. Entre los centros colaboradores se encuentran:
+
+Parc Sanitari Sant Joan de Déu
+Hospital Universitari de la Santa Creu i Sant Pau
+Hospital Universitario Sant Joan
+Hospital Universitari Arnau de Vilanova
+Esta sinergia entre la tecnología y la medicina nos permite desarrollar una solución avanzada, adaptada a la realidad de cada centro hospitalario, con el objetivo de mejorar la prescripción antimicrobiana y optimizar el tratamiento de las bacteriemias.
 
 ## News and Publications
 
