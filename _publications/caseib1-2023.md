@@ -1,6 +1,6 @@
 ---
 position: 1
-title: appATB® mHealth platform: implementation and technical evaluation of an interoperable platform to support antimicrobial prescribing in hospitals 
+title: appATB® mHealth platform implementation and technical evaluation of an interoperable platform to support antimicrobial prescribing in hospitals 
 authors: Paloma Chausa, Francisco J. Gárate, Marina Serena, Judit López Luque, Araceli González-Cuevas, Pere Serrat, Jesús Millán, Alba Rivera Martínez, Joaquín López-Contreras, Marc Velázquez Casas, Ana Felisa López, Simona Mihaella Iftimie, Marc González Boronat, Alfredo Jover-Sáenz, Alexander P. Seiffert, Enrique J. Gómez, Vicens Díaz-Brito on behalf of the appATB® Research Team 
 journal: Enviado
 image: 
