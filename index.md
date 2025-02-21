@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AppAtb
+title: appATB
 header_type: hero
 subtitle: Optimizando la prescripción antimicrobiana con datos en tiempo real
 ---
