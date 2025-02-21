@@ -48,8 +48,6 @@ Entre los centros colaboradores se encuentran:
 + <b>Hospital Universitario Sant Joan</b>
 + <b>Hospital Universitari Arnau de Vilanova</b>
 
-##
-
 Esta sinergia entre la tecnología y la medicina nos permite desarrollar una solución avanzada, adaptada a la realidad de cada centro hospitalario, con el objetivo de mejorar la prescripción antimicrobiana y optimizar el tratamiento de las bacteriemias.
 
 
