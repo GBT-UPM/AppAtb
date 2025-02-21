@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Demo
+title: "Demo"
 permalink: /demo
 ---
 ## Demo appATB
