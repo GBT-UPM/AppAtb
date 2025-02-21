@@ -23,7 +23,6 @@ Este proyecto representa un avance significativo en la optimización del uso de 
 
 Desarrollar AppATB, una herramienta e-health innovadora que optimice la prescripción antimicrobiana en casos de bacteriemia, proporcionando recomendaciones personalizadas y actualizadas en tiempo real, adaptadas a la realidad clínica de cada paciente y centro hospitalario.
 
-This project aims to achieve the following specific objectives:
 + <b>Mapa de resistencias antibióticas.</b>
 Proporcionar una visión geográfica actualizada sobre la resistencia de los microorganismos a los antibióticos en distintos hospitales..
 +  <b>Optimización del tratamiento inicial.</b>
