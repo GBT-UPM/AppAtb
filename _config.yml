@@ -104,8 +104,8 @@ navbar:
     url     : /blog/ # url	
   - title   : Publications
     url     : /publication
-  - title   : About us
-    url     : /aboutus
+  # - title   : About us
+  #   url     : /aboutus
   
 #Social links to be placed on your site footer
 footer:
