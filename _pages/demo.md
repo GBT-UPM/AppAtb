@@ -4,7 +4,7 @@ title: "Demo"
 permalink: /demo
 ---
 ## Demo appATB
-Se para probar la aplicación:
+Para probar la aplicación:
 + <b>Usuario:</b> demo
 + <b>Contraseña:</b> demo123
 + <b>Hospital:</b> demo
